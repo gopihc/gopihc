@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gopi  
-- 👀 I’m interested in ...Cloud Technologies, Automation/ETL, Programming,AWS/AZURE. 
+- 👀 I’m interested in ...Cloud Technologies, Automation/ETL, Programming,AWS/AZURE/DEVOPS/JENKINS/CICD. 
 - 🌱 I’m currently learning ... ML/AI
 
 - 💞️ I’m looking to collaborate on ...
