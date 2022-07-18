@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in ...Cloud Technologies, Automation, Programming, DEVOPS/JENKINS/CICD/KUBERNETES,DOCKER,TERRAFORM. 
 
-- 💞️ I’m looking to collaborate on ... Kubernetes developement, Golang
+- 💞️ I’m looking to collaborate on ... Kubernetes developement, Golang, GitOps
 - 📫 How to reach me ... @gopihc@gmail.com/ linkedin.com/gopihc, twitter.com/gopihc
 
 <!---
