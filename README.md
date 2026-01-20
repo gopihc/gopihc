@@ -1,6 +1,6 @@
 [![Gopi's github stats](https://github-readme-stats.vercel.app/api?username=gopihc)](https://github.com/gopihc/github-readme-stats)
   
-- 👀 I’m interested in ...Cloud Technologies, Automation, Programming, DEVOPS/JENKINS/CICD/KUBERNETES,DOCKER,TERRAFORM. 
+- 👀 I’m interested in ...Cloud Technologies, Automation, Programming, Data/AI/ML DEVOPS/JENKINS/CICD/KUBERNETES,DOCKER,TERRAFORM. 
 
 - 💞️ I’m looking to collaborate on ... Kubernetes developement, Golang, GitOps
 - 📫 How to reach me ... @gopihc@gmail.com/ linkedin.com/gopihc, twitter.com/gopihc
