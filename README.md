@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:0EA5E9&height=190&section=header&text=Gopi%20Chinnappa&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Enterprise%20Architect%20%E2%80%A2%20DevOps%20%E2%80%A2%20MLOps%2FAIOps%20%E2%80%A2%20Cloud%20%E2%80%A2%20Data%20%26%20AI%20%E2%80%A2%20InfoSec&descAlignY=54&descSize=15" alt="Gopi Chinnappa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:0EA5E9&height=190&section=header&text=Gopi%20Chinnappa&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Enterprise%20Architect%20%E2%80%A2%20DevOps%20%E2%80%A2%20MLOps%2FAIOps%20%E2%80%A2%20Cloud%20%E2%80%A2%20Data%2FAI%2FLLM%20%E2%80%A2%20InfoSec&descAlignY=54&descSize=15" alt="Gopi Chinnappa" />
 
 <a href="https://www.gopihc.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=0EA5E9&center=true&vCenter=true&width=760&lines=Tech+Manager+%26+Enterprise+Architect+%E2%80%A2+15%2B+years;Kubernetes+%7C+GitOps+%7C+Terraform+%7C+Golang;AI+%7C+LLMs+%7C+MLOps+%7C+Data+Engineering;Snowflake+%7C+Databricks+%7C+Azure+Data+Factory;Designing+secure%2C+scalable+cloud+platforms" alt="Typing intro" />
